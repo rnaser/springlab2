@@ -14,3 +14,6 @@ input{
   font-size: 1.3em
 }
 
+
+@media secreen and (min-width: 510px) {
+  
