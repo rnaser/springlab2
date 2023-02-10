@@ -44,7 +44,10 @@ input{
 
 
 @media secreen and (min-width: 700px) {
+  #meat {
+  width: 450px;
   
+  }
   
   #submit {
     width: 20%:
