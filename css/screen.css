@@ -43,17 +43,15 @@ input{
 
 
 
-@media secreen and (min-width: 800px) {
+@media secreen and (min-width: 700px) {
   
   
   #submit {
     width: 20%:
-    display: block;
-    margin: 1 auto;
-    font-size: 1.0em:
+    
   }
   
-  
+}
   
   
   
