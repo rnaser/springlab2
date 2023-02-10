@@ -15,7 +15,7 @@ input{
 }
 
 
-@media secreen and (min-width: 510px) {
+@media screen and (min-width: 510px) {
   #meat {
   text-align: center;
   margin: 3% auto 0 auto;
@@ -35,7 +35,7 @@ input{
   }
 }
 
-@media secreen and (min-width: 700px) {
+@media screen and (min-width: 700px) {
   #meat {
   width: 450px;
   
