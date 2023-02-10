@@ -1,0 +1,16 @@
+label{ 
+  display: block;
+  text-align: center;
+  font-size: 1.3em;
+  width: 90%;
+}
+
+input{ 
+  box-sizing: border-box;
+  width: 90%;
+  padding: 12px 12px;
+}
+.font-size{
+  font-size: 1.3em
+}
+
